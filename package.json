@@ -1,0 +1,28 @@
+{
+  "name": "nextjs_sample",
+  "version": "1.0.0",
+  "description": "My first nextjs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "next dev"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "fullstack"
+  ],
+  "author": "Tezcatlipoca",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.1.0",
+    "next": "^13.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}
